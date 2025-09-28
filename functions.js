@@ -50,4 +50,4 @@ document.getElementById("btnClear").addEventListener("click", function() {
   document.getElementById("templateText").value = "";
   document.getElementById("text2").value = "";
   document.getElementById("preview").innerHTML = "";
-});
+}); 
