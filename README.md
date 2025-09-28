@@ -1,1 +1,0 @@
-Page of compare tool
